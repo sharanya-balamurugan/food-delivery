@@ -57,7 +57,7 @@
         font-size: max(4.5vw,22px);
     }
     .header-contents p{
-        font-size: 8px;
+        display: none;
             }
         
 
